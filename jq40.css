@@ -1,0 +1,8 @@
+
+.descendants * { 
+  display: block;
+  border: 2px solid lightgrey;
+  color: rgb(216, 34, 34);
+  padding: 5px;
+  margin: 15px;
+}
